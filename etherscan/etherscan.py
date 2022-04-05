@@ -1,6 +1,6 @@
 import json
-from importlib import resources
-
+# from importlib import resources
+import importlib_resources as resources
 import requests
 
 import etherscan
